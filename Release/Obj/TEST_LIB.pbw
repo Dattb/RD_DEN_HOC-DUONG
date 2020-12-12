@@ -1,0 +1,2242 @@
+[
+  {
+    "ID": "c:@F@ADC1_DeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_DeInit(void)",
+    "location": {
+      "column": "6",
+      "line": "52",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_DeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_Init(int, int, int, int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "88",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_Cmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_Cmd(int)",
+    "location": {
+      "column": "6",
+      "line": "126",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_Cmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_ScanModeCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_ScanModeCmd(int)",
+    "location": {
+      "column": "6",
+      "line": "146",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_ScanModeCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_DataBufferCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_DataBufferCmd(int)",
+    "location": {
+      "column": "6",
+      "line": "166",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_DataBufferCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_ITConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_ITConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "190",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_ITConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_PrescalerConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_PrescalerConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "214",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_PrescalerConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_SchmittTriggerConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_SchmittTriggerConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "233",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_SchmittTriggerConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_ConversionConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_ConversionConfig(int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "286",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_ConversionConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_ExternalTriggerConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_ExternalTriggerConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "325",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_ExternalTriggerConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_StartConversion",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_StartConversion(void)",
+    "location": {
+      "column": "6",
+      "line": "358",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_StartConversion",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_GetConversionValue",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int ADC1_GetConversionValue(void)",
+    "location": {
+      "column": "10",
+      "line": "370",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_GetConversionValue",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_AWDChannelConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_AWDChannelConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "405",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_AWDChannelConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_SetHighThreshold",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_SetHighThreshold(int)",
+    "location": {
+      "column": "6",
+      "line": "441",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_SetHighThreshold",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_SetLowThreshold",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_SetLowThreshold(int)",
+    "location": {
+      "column": "6",
+      "line": "453",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_SetLowThreshold",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_GetBufferValue",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int ADC1_GetBufferValue(int)",
+    "location": {
+      "column": "10",
+      "line": "466",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_GetBufferValue",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_GetAWDChannelStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int ADC1_GetAWDChannelStatus(int)",
+    "location": {
+      "column": "12",
+      "line": "502",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_GetAWDChannelStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_GetFlagStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int ADC1_GetFlagStatus(int)",
+    "location": {
+      "column": "12",
+      "line": "527",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_GetFlagStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_ClearFlag",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_ClearFlag(int)",
+    "location": {
+      "column": "6",
+      "line": "567",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_ClearFlag",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_GetITStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int ADC1_GetITStatus(int)",
+    "location": {
+      "column": "10",
+      "line": "616",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_GetITStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_ClearITPendingBit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_ClearITPendingBit(int)",
+    "location": {
+      "column": "6",
+      "line": "662",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_adc1.c"
+    },
+    "name": "ADC1_ClearITPendingBit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@uint8_t",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "uint8_t",
+    "location": {
+      "column": "7",
+      "line": "48",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "uint8_t",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@uint8_t",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "uint8_t",
+    "location": {
+      "column": "7",
+      "line": "49",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "uint8_t",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_DeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_DeInit(void)",
+    "location": {
+      "column": "6",
+      "line": "72",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_DeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_FastHaltWakeUpCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_FastHaltWakeUpCmd(int)",
+    "location": {
+      "column": "6",
+      "line": "99",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_FastHaltWakeUpCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_HSECmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_HSECmd(int)",
+    "location": {
+      "column": "6",
+      "line": "121",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_HSECmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_HSICmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_HSICmd(int)",
+    "location": {
+      "column": "6",
+      "line": "143",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_HSICmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_LSICmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_LSICmd(int)",
+    "location": {
+      "column": "6",
+      "line": "166",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_LSICmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_CCOCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_CCOCmd(int)",
+    "location": {
+      "column": "6",
+      "line": "189",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_CCOCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_ClockSwitchCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_ClockSwitchCmd(int)",
+    "location": {
+      "column": "6",
+      "line": "213",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_ClockSwitchCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_SlowActiveHaltWakeUpCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_SlowActiveHaltWakeUpCmd(int)",
+    "location": {
+      "column": "6",
+      "line": "238",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_SlowActiveHaltWakeUpCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_PeripheralClockConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_PeripheralClockConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "263",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_PeripheralClockConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_ClockSwitchConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int CLK_ClockSwitchConfig(int, int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "309",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_ClockSwitchConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_HSIPrescalerConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_HSIPrescalerConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "415",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_HSIPrescalerConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_CCOConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_CCOConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "436",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_CCOConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_ITConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_ITConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "459",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_ITConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_SYSCLKConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_SYSCLKConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "500",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_SYSCLKConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_SWIMConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_SWIMConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "523",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_SWIMConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_ClockSecuritySystemEnable",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_ClockSecuritySystemEnable(void)",
+    "location": {
+      "column": "6",
+      "line": "547",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_ClockSecuritySystemEnable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_GetSYSCLKSource",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int CLK_GetSYSCLKSource(void)",
+    "location": {
+      "column": "20",
+      "line": "559",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_GetSYSCLKSource",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_GetClockFreq",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int CLK_GetClockFreq(void)",
+    "location": {
+      "column": "10",
+      "line": "569",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_GetClockFreq",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_AdjustHSICalibrationValue",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_AdjustHSICalibrationValue(int)",
+    "location": {
+      "column": "6",
+      "line": "604",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_AdjustHSICalibrationValue",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_SYSCLKEmergencyClear",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_SYSCLKEmergencyClear(void)",
+    "location": {
+      "column": "6",
+      "line": "622",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_SYSCLKEmergencyClear",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_GetFlagStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int CLK_GetFlagStatus(int)",
+    "location": {
+      "column": "12",
+      "line": "634",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_GetFlagStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_GetITStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int CLK_GetITStatus(int)",
+    "location": {
+      "column": "10",
+      "line": "687",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_GetITStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_ClearITPendingBit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CLK_ClearITPendingBit(int)",
+    "location": {
+      "column": "6",
+      "line": "729",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_clk.c"
+    },
+    "name": "CLK_ClearITPendingBit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI1_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TI1_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "39",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI1_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI2_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TI2_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "41",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI2_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI3_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TI3_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "43",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI3_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI4_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TI4_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "45",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI4_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_DeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_DeInit(void)",
+    "location": {
+      "column": "6",
+      "line": "58",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_DeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_TimeBaseInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_TimeBaseInit(int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "111",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_TimeBaseInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC1Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC1Init(int, int, int, int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "154",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC1Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC2Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC2Init(int, int, int, int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "217",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC2Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC3Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC3Init(int, int, int, int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "281",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC3Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC4Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC4Init(int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "338",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC4Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_BDTRConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_BDTRConfig(int, int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "388",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_BDTRConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ICInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ICInit(int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "423",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ICInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_PWMIConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_PWMIConfig(int, int, int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "488",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_PWMIConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_Cmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_Cmd(int)",
+    "location": {
+      "column": "6",
+      "line": "561",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_Cmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_CtrlPWMOutputs",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_CtrlPWMOutputs(int)",
+    "location": {
+      "column": "6",
+      "line": "583",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_CtrlPWMOutputs",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ITConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ITConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "617",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ITConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_InternalClockConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_InternalClockConfig(void)",
+    "location": {
+      "column": "6",
+      "line": "640",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_InternalClockConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ETRClockMode1Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ETRClockMode1Config(int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "662",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ETRClockMode1Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ETRClockMode2Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ETRClockMode2Config(int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "694",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ETRClockMode2Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ETRConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ETRConfig(int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "725",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ETRConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_TIxExternalClockConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_TIxExternalClockConfig(int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "751",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_TIxExternalClockConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectInputTrigger",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectInputTrigger(int)",
+    "location": {
+      "column": "6",
+      "line": "787",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectInputTrigger",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_UpdateDisableConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_UpdateDisableConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "803",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_UpdateDisableConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_UpdateRequestConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_UpdateRequestConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "827",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_UpdateRequestConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectHallSensor",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectHallSensor(int)",
+    "location": {
+      "column": "6",
+      "line": "849",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectHallSensor",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectOnePulseMode",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectOnePulseMode(int)",
+    "location": {
+      "column": "6",
+      "line": "873",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectOnePulseMode",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectOutputTrigger",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectOutputTrigger(int)",
+    "location": {
+      "column": "6",
+      "line": "903",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectOutputTrigger",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectSlaveMode",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectSlaveMode(int)",
+    "location": {
+      "column": "6",
+      "line": "923",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectSlaveMode",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectMasterSlaveMode",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectMasterSlaveMode(int)",
+    "location": {
+      "column": "6",
+      "line": "939",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectMasterSlaveMode",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_EncoderInterfaceConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_EncoderInterfaceConfig(int, int, int)",
+    "location": {
+      "column": "6",
+      "line": "975",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_EncoderInterfaceConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_PrescalerConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_PrescalerConfig(int, int)",
+    "location": {
+      "column": "6",
+      "line": "1023",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_PrescalerConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_CounterModeConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_CounterModeConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1048",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_CounterModeConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ForcedOC1Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ForcedOC1Config(int)",
+    "location": {
+      "column": "6",
+      "line": "1067",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ForcedOC1Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ForcedOC2Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ForcedOC2Config(int)",
+    "location": {
+      "column": "6",
+      "line": "1085",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ForcedOC2Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ForcedOC3Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ForcedOC3Config(int)",
+    "location": {
+      "column": "6",
+      "line": "1104",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ForcedOC3Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ForcedOC4Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ForcedOC4Config(int)",
+    "location": {
+      "column": "6",
+      "line": "1123",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ForcedOC4Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ARRPreloadConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ARRPreloadConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1139",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ARRPreloadConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectCOM",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectCOM(int)",
+    "location": {
+      "column": "6",
+      "line": "1161",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectCOM",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_CCPreloadControl",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_CCPreloadControl(int)",
+    "location": {
+      "column": "6",
+      "line": "1183",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_CCPreloadControl",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC1PreloadConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC1PreloadConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1205",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC1PreloadConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC2PreloadConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC2PreloadConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1227",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC2PreloadConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC3PreloadConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC3PreloadConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1249",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC3PreloadConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC4PreloadConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC4PreloadConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1271",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC4PreloadConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC1FastConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC1FastConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1293",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC1FastConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC2FastConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC2FastConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1315",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC2FastConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC3FastConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC3FastConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1337",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC3FastConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC4FastConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC4FastConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1359",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC4FastConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GenerateEvent",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_GenerateEvent(int)",
+    "location": {
+      "column": "6",
+      "line": "1389",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GenerateEvent",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC1PolarityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC1PolarityConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1406",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC1PolarityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC1NPolarityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC1NPolarityConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1430",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC1NPolarityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC2PolarityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC2PolarityConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1454",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC2PolarityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC2NPolarityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC2NPolarityConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1478",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC2NPolarityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC3PolarityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC3PolarityConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1502",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC3PolarityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC3NPolarityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC3NPolarityConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1527",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC3NPolarityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_OC4PolarityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_OC4PolarityConfig(int)",
+    "location": {
+      "column": "6",
+      "line": "1551",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_OC4PolarityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_CCxCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_CCxCmd(int, int)",
+    "location": {
+      "column": "6",
+      "line": "1579",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_CCxCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_CCxNCmd",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_CCxNCmd(int, int)",
+    "location": {
+      "column": "6",
+      "line": "1647",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_CCxNCmd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SelectOCxM",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SelectOCxM(int, int)",
+    "location": {
+      "column": "6",
+      "line": "1712",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SelectOCxM",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetCounter",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetCounter(int)",
+    "location": {
+      "column": "6",
+      "line": "1762",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetCounter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetAutoreload",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetAutoreload(int)",
+    "location": {
+      "column": "6",
+      "line": "1775",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetAutoreload",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetCompare1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetCompare1(int)",
+    "location": {
+      "column": "6",
+      "line": "1788",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetCompare1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetCompare2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetCompare2(int)",
+    "location": {
+      "column": "6",
+      "line": "1801",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetCompare2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetCompare3",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetCompare3(int)",
+    "location": {
+      "column": "6",
+      "line": "1814",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetCompare3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetCompare4",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetCompare4(int)",
+    "location": {
+      "column": "6",
+      "line": "1827",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetCompare4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetIC1Prescaler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetIC1Prescaler(int)",
+    "location": {
+      "column": "6",
+      "line": "1844",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetIC1Prescaler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetIC2Prescaler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetIC2Prescaler(int)",
+    "location": {
+      "column": "6",
+      "line": "1864",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetIC2Prescaler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetIC3Prescaler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetIC3Prescaler(int)",
+    "location": {
+      "column": "6",
+      "line": "1885",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetIC3Prescaler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_SetIC4Prescaler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_SetIC4Prescaler(int)",
+    "location": {
+      "column": "6",
+      "line": "1906",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_SetIC4Prescaler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetCapture1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetCapture1(void)",
+    "location": {
+      "column": "10",
+      "line": "1922",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetCapture1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetCapture2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetCapture2(void)",
+    "location": {
+      "column": "10",
+      "line": "1943",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetCapture2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetCapture3",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetCapture3(void)",
+    "location": {
+      "column": "10",
+      "line": "1964",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetCapture3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetCapture4",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetCapture4(void)",
+    "location": {
+      "column": "10",
+      "line": "1984",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetCapture4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetCounter",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetCounter(void)",
+    "location": {
+      "column": "10",
+      "line": "2004",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetCounter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetPrescaler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetPrescaler(void)",
+    "location": {
+      "column": "10",
+      "line": "2019",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetPrescaler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetFlagStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetFlagStatus(int)",
+    "location": {
+      "column": "12",
+      "line": "2047",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetFlagStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ClearFlag",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ClearFlag(int)",
+    "location": {
+      "column": "6",
+      "line": "2087",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ClearFlag",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_GetITStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int TIM1_GetITStatus(int)",
+    "location": {
+      "column": "10",
+      "line": "2112",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_GetITStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_ClearITPendingBit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_ClearITPendingBit(int)",
+    "location": {
+      "column": "6",
+      "line": "2149",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TIM1_ClearITPendingBit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI1_Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TI1_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "2174",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI1_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI2_Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TI2_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "2215",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI2_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI3_Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TI3_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "2254",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI3_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_tim1.c@F@TI4_Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TI4_Config(int, int, int)",
+    "location": {
+      "column": "13",
+      "line": "2294",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_tim1.c"
+    },
+    "name": "TI4_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_DeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_DeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "53",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_DeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_Init(int *, int, int)",
+    "location": {
+      "column": "6",
+      "line": "71",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_Write",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_Write(int *, int)",
+    "location": {
+      "column": "6",
+      "line": "141",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_Write",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_WriteHigh",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_WriteHigh(int *, int)",
+    "location": {
+      "column": "6",
+      "line": "154",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_WriteHigh",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_WriteLow",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_WriteLow(int *, int)",
+    "location": {
+      "column": "6",
+      "line": "167",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_WriteLow",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_WriteReverse",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_WriteReverse(int *, int)",
+    "location": {
+      "column": "6",
+      "line": "180",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_WriteReverse",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_ReadOutputData",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int GPIO_ReadOutputData(int *)",
+    "location": {
+      "column": "9",
+      "line": "191",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_ReadOutputData",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_ReadInputData",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int GPIO_ReadInputData(int *)",
+    "location": {
+      "column": "9",
+      "line": "202",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_ReadInputData",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_ReadInputPin",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int GPIO_ReadInputPin(int *, int)",
+    "location": {
+      "column": "11",
+      "line": "213",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_ReadInputPin",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_ExternalPullUpConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_ExternalPullUpConfig(int *, int, int)",
+    "location": {
+      "column": "6",
+      "line": "225",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\lib\\src\\stm8s_gpio.c"
+    },
+    "name": "GPIO_ExternalPullUpConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@timer_PWM",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void timer_PWM(void)",
+    "location": {
+      "column": "6",
+      "line": "32",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\main.c"
+    },
+    "name": "timer_PWM",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void main(void)",
+    "location": {
+      "column": "6",
+      "line": "37",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@timer_PWM",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void timer_PWM(void)",
+    "location": {
+      "column": "6",
+      "line": "48",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\main.c"
+    },
+    "name": "timer_PWM",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER_TRAP",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER_TRAP(int)",
+    "location": {
+      "column": "1",
+      "line": "66",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER_TRAP",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "78",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "91",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "103",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "115",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "127",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "139",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "151",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "163",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "215",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "227",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "239",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "277",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "289",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "382",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "461",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "487",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "500",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_it.h@1259@macro@__STM8S_IT_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__STM8S_IT_H",
+    "location": {
+      "column": "9",
+      "line": "30",
+      "path": "C:\\Users\\Dat UTC\\Documents\\STM8\\stm8s003f3p6\\TEST_LIB_ST\\stm8s_it.h"
+    },
+    "name": "__STM8S_IT_H",
+    "origin": "user_include",
+    "scope": null
+  }
+]
